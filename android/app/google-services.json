@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156425404190",
+    "project_id": "proyecto-gradoinf",
+    "storage_bucket": "proyecto-gradoinf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156425404190:android:7f6ea65e83e83e8c78930f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_appedu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTkhKdaj9n_xlLv8YtepCSQpO2QE1CLZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "app-educativa-flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app-educativa-flutter (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app-educativa-flutter (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "app-educativa-flutter",
+            "cwd": "app-educativa-flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app-educativa-flutter (profile mode)",
+            "cwd": "app-educativa-flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app-educativa-flutter (release mode)",
+            "cwd": "app-educativa-flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
