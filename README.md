@@ -26,7 +26,7 @@ Aplicación móvil educativa desarrollada con Flutter, diseñada para facilitar 
   <img src="assets/login.png" width="250">
     <img src="assets/Pagina principal.png" width="250">
   <img src="assets/screenshots/minijuegos.png" width="250">
-  <img src="assets/Panel maestro.png" width="250">
+  <img src="assets/Panel maestros.png" width="250">
 </p>
 
   ## ⚙️ Instalación
