@@ -25,13 +25,13 @@ Aplicación móvil educativa desarrollada con Flutter, diseñada para facilitar 
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/edulearn.git
+git clone (https://github.com/Ener25/Aplicacion-educativa-.git)
 ```
 
 ### Entrar al proyecto
 
 ```bash
-cd edulearn
+cd Aplicacion-educativa
 ```
 
 ### Instalar dependencias
