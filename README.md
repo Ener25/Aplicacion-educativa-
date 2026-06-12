@@ -19,6 +19,15 @@ Aplicación móvil educativa desarrollada con Flutter, diseñada para facilitar 
 - Firebase Storage
 - Provider / Riverpod (según corresponda)
 - Material Design
+  
+## 📸 Capturas de Pantalla
+
+<p align="center">
+  <img src="assets/screenshots/login.png" width="250">
+    <img src="assets/screenshots/Pagina principal" width="250">
+  <img src="assets/screenshots/minijuegos.png" width="250">
+  <img src="assets/screenshots/Panel maestro" width="250">
+</p>
 
   ## ⚙️ Instalación
 
